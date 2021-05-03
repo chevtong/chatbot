@@ -97,3 +97,7 @@ input {
   background-color: white;
   color: #d69b93;
 }
+
+.restaurant-container{
+    height: 30vh;
+}
